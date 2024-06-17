@@ -1,0 +1,7 @@
+
+// declaring a variable called x
+
+output "Hello,World!";
+declare x = 200;
+
+output x + 300;
